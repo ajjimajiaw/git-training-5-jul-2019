@@ -1,4 +1,7 @@
 def hello_world():
-print("Hello World.")
+    print("Hello World.")
 
+
+def goodbye_world():
+    print("Goodbye World.")
 hello_world()
